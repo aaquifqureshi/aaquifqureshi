@@ -68,7 +68,7 @@ Grocery price comparison project exploring product discovery, web scraping, and 
 
 ## Experience
 
-**MERN Developer Intern — Groot Technologies**
+**MERN Developer Intern — Brainybeam Info-Tech Pvt. Ltd**
 January 2026 – June 2026
 
 Worked on FilmZone, a movie ticket booking platform, contributing to frontend development, backend APIs, database integration, authentication, and deployment.
