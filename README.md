@@ -2,7 +2,7 @@
 
 **Computer Science Engineer · Software Developer**
 
-I build practical software with a focus on frontend engineering, modern web applications, and developer tools.
+I build practical software with a focus on frontend and full-stack web development, developer tools, and real-time applications.
 
 Currently working primarily with **React, Next.js, TypeScript, and JavaScript**, while strengthening my computer science fundamentals and broader software engineering skills.
 
@@ -31,60 +31,52 @@ Currently working primarily with **React, Next.js, TypeScript, and JavaScript**,
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square\&logo=nodedotjs\&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-111827?style=flat-square\&logo=express\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square\&logo=mongodb\&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square\&logo=postgresql\&logoColor=4169E1)
 
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-111827?style=flat-square\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square\&logo=docker\&logoColor=2496ED)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-111827?style=flat-square\&logo=render\&logoColor=white)
 
-## Selected Projects
+## Current Focus
 
-### TempLink
+* Strengthening core computer science fundamentals
+* Deepening React and Next.js architecture
+* Improving JavaScript and TypeScript fundamentals
+* Learning system design and software engineering practices
+* Building and documenting production-oriented projects
 
-Temporary cross-device sharing using WebRTC and real-time signaling. Supports text and file transfer, QR-based device connection, temporary sessions, and peer-to-peer communication.
+## Selected Work
+
+### [TempLink](https://github.com/aaquifqureshi/TempLink)
+
+Temporary cross-device sharing using WebRTC and real-time signaling. Supports peer-to-peer text and file transfer, QR-based device connection, temporary sessions, and cross-device communication.
 
 `Next.js` `TypeScript` `WebRTC` `WebSocket` `Zustand`
 
-### FilmZone
+### [FilmZone](https://github.com/aaquifqureshi/Filmzone)
 
-A full-stack movie ticket booking platform with user, vendor, and admin workflows, movie management, seat selection, booking, authentication, and deployment.
+Full-stack movie ticket booking platform with authentication, role-based workflows, movie management, seat selection, booking, and deployment.
 
 `React` `Node.js` `Express` `MongoDB` `JWT`
 
-### CartCompare
+### [CartCompare](https://github.com/aaquifqureshi/CartCompare)
 
-A grocery price comparison project that collects product information from online grocery platforms and compares prices across stores.
+Grocery price comparison project exploring product discovery, web scraping, and cross-store price comparison.
 
 `JavaScript` `Web Scraping` `APIs`
 
-### SignVision
+## Experience
 
-A computer vision project for detecting and classifying traffic signs.
+**MERN Developer Intern — Groot Technologies**
+January 2026 – June 2026
 
-`Python` `Computer Vision` `Machine Learning`
-
-### Nestora
-
-A responsive real-estate web interface focused on modern UI, animations, property presentation, and responsive layouts.
-
-`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
-
-## Currently Learning
-
-* Computer science fundamentals and problem solving
-* Advanced JavaScript and TypeScript
-* React and Next.js architecture
-* Software engineering and system design
-* Building and documenting production-oriented projects
+Worked on FilmZone, a movie ticket booking platform, contributing to frontend development, backend APIs, database integration, authentication, and deployment.
 
 ## Engineering Interests
 
 Frontend architecture · Developer tools · Real-time systems · Web applications · Software engineering
 
----
+## Connect
 
-I prefer building things, understanding how they work, and improving them over simply collecting technologies.
+[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [X](YOUR_X_URL) · [Email](mailto:YOUR_EMAIL)
