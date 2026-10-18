@@ -48,7 +48,7 @@ Currently working primarily with **React, Next.js, TypeScript, and JavaScript**,
 
 ## Selected Work
 
-### [TempLink](https://github.com/aaquifqureshi/TempLink)
+### [TempSend](https://github.com/aaquifqureshi/TempSend)
 
 Temporary cross-device sharing using WebRTC and real-time signaling. Supports peer-to-peer text and file transfer, QR-based device connection, temporary sessions, and cross-device communication.
 
